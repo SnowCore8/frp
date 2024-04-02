@@ -17,7 +17,7 @@ require (
 	github.com/pion/stun/v2 v2.0.0
 	github.com/pires/go-proxyproto v0.7.0
 	github.com/prometheus/client_golang v1.16.0
-	github.com/quic-go/quic-go v0.41.0
+	github.com/quic-go/quic-go v0.42.0
 	github.com/rodaine/table v1.1.0
 	github.com/samber/lo v1.39.0
 	github.com/spf13/cobra v1.8.0
@@ -29,7 +29,7 @@ require (
 	golang.org/x/net v0.19.0
 	golang.org/x/oauth2 v0.10.0
 	golang.org/x/sync v0.3.0
-	golang.org/x/time v0.3.0
+	golang.org/x/time v0.5.0
 	gopkg.in/ini.v1 v1.67.0
 	k8s.io/apimachinery v0.27.4
 	k8s.io/client-go v0.27.4
@@ -67,7 +67,7 @@ require (
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/tjfoc/gmsm v1.4.1 // indirect
-	go.uber.org/mock v0.3.0 // indirect
+	go.uber.org/mock v0.4.0 // indirect
 	golang.org/x/exp v0.0.0-20221205204356-47842c84f3db // indirect
 	golang.org/x/mod v0.11.0 // indirect
 	golang.org/x/sys v0.15.0 // indirect
